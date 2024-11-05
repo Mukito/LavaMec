@@ -6,6 +6,7 @@
     margin-top: 40px;
     text-align: center;
     padding: 20px;
+    cursor: pointer;
 
 }
 
@@ -30,4 +31,34 @@
     background-color: var(--dark-color);
     padding: 5px;
     font-size: 30px;
+}
+
+.number-card{
+
+    font-size: 25px;
+
+}
+
+#att_cliente{
+    display: none;
+}
+
+#form-att-cliente{
+    display: none;
+}
+
+/**#btn-success{
+    padding: 5px;
+    font-weight: bold;
+    cursor: pointer;
+}**/
+.btn-success2 {
+    width: 200px;          /* Define a largura do botão */
+    height: 39px;          /* Define a altura do botão */
+    color: white;
+    background-color: forestgreen;
+}
+
+.btn-success2:houve {
+    background-color: darkcyan;
 }
